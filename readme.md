@@ -1,4 +1,4 @@
-#[require.js](https://github.com/browserify/browserify/edit/master/security.md)
+# [require.js](https://github.com/browserify/browserify/edit/master/security.md)
 
 定义一个模块 /js/demo.js
 ```js
