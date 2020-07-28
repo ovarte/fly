@@ -1,5 +1,6 @@
 # [require.js](https://github.com/browserify/browserify/edit/master/security.md)
 
+___
 定义一个模块 /js/demo.js
 ```js
     define(function () {
