@@ -12,10 +12,10 @@
     });
 ```
 
-引用定义的模块
+引用定义的模块 /main.js
 
 ```js
-   requirejs(['./js/demo'],function($,canvas,) {
+   requirejs(['js/demo'],function($,canvas,) {
        //Do setup work here
     });
 ```
