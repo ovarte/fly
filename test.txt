@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Creating a new branch is quick & useful.
+=======
+Creating a new branch is quick and useful.
+>>>>>>> 3774ed013eaeca38b98c6dee543950981f3d2ae4
 
